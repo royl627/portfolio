@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.86aa3b05.css",
-    "main.js": "/portfolio/static/js/main.a8d9477f.js",
+    "main.js": "/portfolio/static/js/main.61202ef8.js",
     "static/js/453.f69bbbff.chunk.js": "/portfolio/static/js/453.f69bbbff.chunk.js",
     "static/media/background.jpg": "/portfolio/static/media/background.2a8e4d7308a363bb7924.jpg",
     "static/media/profile.png": "/portfolio/static/media/profile.724b1b85324ed8412250.png",
     "static/media/uoft.svg": "/portfolio/static/media/uoft.84a84713bcee8af41672b6e7fe41f75d.svg",
     "static/media/ste.png": "/portfolio/static/media/ste.8f2fb9e2706eb84fb9f3.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.2777c9aba4d1834576b4.pdf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.1a2172428b6d2766052f.pdf",
     "static/media/python.png": "/portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/react.png": "/portfolio/static/media/react.3bf6fb4b18b1f904676d.png",
     "static/media/java.png": "/portfolio/static/media/java.ddf8676bd569fe01ab44.png",
@@ -24,11 +24,11 @@
     "static/media/phone.png": "/portfolio/static/media/phone.d35848942c955a6232b3.png",
     "index.html": "/portfolio/index.html",
     "main.86aa3b05.css.map": "/portfolio/static/css/main.86aa3b05.css.map",
-    "main.a8d9477f.js.map": "/portfolio/static/js/main.a8d9477f.js.map",
+    "main.61202ef8.js.map": "/portfolio/static/js/main.61202ef8.js.map",
     "453.f69bbbff.chunk.js.map": "/portfolio/static/js/453.f69bbbff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86aa3b05.css",
-    "static/js/main.a8d9477f.js"
+    "static/js/main.61202ef8.js"
   ]
 }
