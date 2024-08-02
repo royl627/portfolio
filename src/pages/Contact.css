@@ -1,0 +1,60 @@
+@keyframes fadeDown {
+    0% {
+        opacity: 0;
+        transform: translateY(-50vh);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.contact-page {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    animation: fadeDown 0.5s ease-in-out;
+}
+
+.contact-container {
+    margin-top: 5vh;
+}
+
+.contact-header {
+    font-family: "Raleway", sans-serif;
+    font-weight: 550;
+    font-size: 2rem;
+    margin: 3vh 0vw 2vh 0vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2vh;
+    margin-left: 0vw;
+    padding: 2px;
+}
+
+.contact-item .icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.contact-item span {
+    font-size: 1rem;
+}
+
+.contact-item a {
+    color: black;
+}
+
+.contact-item a:hover {
+    background-color: #e5e4e4;
+    border-radius: 8px;
+    padding: 3px;
+}

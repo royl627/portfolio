@@ -1,0 +1,43 @@
+.download-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border: 1px solid rgb(55, 14, 215);
+    border-radius: 50px;
+    background-color: transparent;
+    color: rgb(55, 14, 215);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+    overflow: hidden;
+    transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.download-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, transparent 0%, rgb(55, 14, 215) 100%, rgb(55, 14, 215) 100%);
+    transition: left 1s ease;
+}
+
+.download-button:hover::before {
+    left: 100%;
+}
+
+.button-text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1rem;
+    color: black;
+    margin-right: 10px;
+}
+
+.download-icon {
+    width: 25px;
+    height: 25px;
+}
