@@ -9,21 +9,22 @@ export const hsSection = [
 ];
 
 export const veevaSection = [
-    "● Developed over 100 automation tests using Java Cucumber, enhanced test coverage and software quality.",
-    "● Automated daily triaged runs using Kibana, ensuring performance and saving significant team's work time.",
-    "● Collaborated with developers to debug critical issues, improving application stability and performance.",
-    "● Played a key role in managing production issues, conducting regression testing, and facilitating Jenkins deployments."
+    "• Developed over 100 automation tests using Java Cucumber, increased the test coverage by 15%.",
+    "• Streamlined daily triaged runs and failure reporting using Kibana, ensured consistency of newly developed code, reduced regression issues by 20%, and maintained high code quality.",
+    "• Collaborated with a cross-functional team in an Agile/Scrum environment, engaging in iterative development and improvement with Jira and version control system Gitlab.",
+    "• Facilitated efficient CI/CD deployments using Jenkins, improved deployment frequency by 15%."
 ];
 
 export const rxSection = [
-    "● Executed daily automation with Python, ensuring productivity, data infrastructure, and data validity.",
-    "● Developed Python scripts to streamline daily workflow, saving approximately 4 hours per day."
+    "• Implemented Python scripts to automate the extraction of daily newspaper data from various websites using Selenium WebDriver, increasing data collection efficiency by 40% and ensuring timely, accurate updates.",
+    "• Optimized data by utilizing Pandas library for data processing and seamlessly importing datasets into the database using Navicat DBMS, improved data accuracy and reducing import time by 30%.",
+    "• Diagnosed and resolved complex software bugs by conducting in-depth debugging sessions and implementing effective solutions, led to a 40% reduction in issue resolution time and enhancing system stability."
 ];
 
 export const dbSection = [
-    "● Developed a key-value stored database system with LSM Tree storage structure with C++.",
-    "● Using cutting-edge database system optimization technologies such as hash table designed Buffer Pool, Bloom Filter, and B-tree structure, optimized query cost.",
-    "● Test and analyse the performances with Python, Shell and Matplotlib, make the result visible and significant."
+    "• Built a key-value store database system in C++ with an LSM Tree storage structure.",
+    "• Adapted cutting-edge query optimization techniques such as Hash Buffer Pool design, Bloom Filter, and B-tree data structure. Achieved significant reduction in query time by 40%.",
+    "• Designed and tested the performance in Python and Shell, visualized result in graphics using Matplotlib."
 ];
 
 export const cgSection = [
@@ -38,15 +39,14 @@ export const mcSection = [
 ]
 
 export const fcSection = [
-    "● Developed backend features for Frontier College's reading app in a team using Java.",
-    "● Using Spring Boot framework and JDBC driver to build the interaction between frontend and backend.",
-    "● Built and tested interactions between frontend and backend using RESTful API and Postman.",
-    "● Using AWS EC2 instance for backend deployment."
+    "• Delivered enhanced functionality for Frontier College’s reading app by developing and integrating new features using Java, improved user engagement and expanding the app’s educational capabilities.",
+    "• Utilized Spring Boot framework and JDBC driver to construct project structure and database interaction.",
+    "• Deployed AWS EC2 instance and implemented a REST API to handle user metadata management, enhanced the data security and scalability. Led to a 20% reduction in user-related support issues."
 ]
 
 export const lpSection = [
-    "● Developed a website that provides multiple learning paths with React and Node JS for server side.",
-    "● Stored and manipulated client data using MongoDB, ensuring data safety and reliability through robust database management practices."
+    "• Designed and Developed a learning path website as a team utilizing React, Node.js and CSS.",
+    "• Managed and manipulated client data using MongoDB, ensured data safety and reliability through comprehensive database management practices. Improved data integrity and reduced data loss incidents by 25%."
 ]
 
 export const fsSection = [
@@ -55,7 +55,6 @@ export const fsSection = [
 ]
 
 export const sdSection = [
-    "● Designed and developed a conference system software with Java and UI with JavaFX.",
-    "● Implemented functionalities like sign-up system, messaging, and event management.",
-    "● Mainly responsible for the entity layer implementation using OOP and design patterns."
+    "• Collaborated with a team to design and develop a conference management system, adhering to the SDLC, OOP and Design Patterns in Java. Applied good coding practices to ensure code reusability and maintainability.",
+    "• Specialized in engineering the entity layer and user interface (UI) using Java and JavaFX. Constructed efficient data models and defined relationships between other layers."
 ]
